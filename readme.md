@@ -17,4 +17,4 @@ Please note that this repository is for issues only. If you have general questio
 
 ## Contact Us
 
-If you have any questions or concerns about Futuredesk, please don't hesitate to contact us. You can reach us via email at support@futuredesk.io or on Twitter at @futuredesk-op.
+If you have any questions or concerns about Futuredesk, please don't hesitate to contact us. You can reach us via email at support@futuredesk.io or on Twitter at [@futuredesk](https://twitter.com/Futuredesk_io).
