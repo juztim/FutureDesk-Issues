@@ -5,7 +5,7 @@ Welcome to the Futuredesk issue-only repository! This repository is dedicated to
 
 ## What is Futuredesk?
 
-Futuredesk is a project aimed at providing a more intuitive and user-friendly interface for ChatGPT, an open-source chatbot platform. Our goal is to make it easier for users to interact with ChatGPT and get the most out of its powerful features.
+Futuredesk is a project aimed at providing a more intuitive and user-friendly interface for ChatGPT, a chatbot platform. Our goal is to make it easier for users to interact with ChatGPT and get the most out of its powerful features.
 
 ## How to Use This Repository
 
